@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/block/braindump/commit/d267ace6b39a5c2a12657915cb4b4a9379f76386",
       "git:hexsha": "d267ace6b39a5c2a12657915cb4b4a9379f76386",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "main"
     }
   ]
