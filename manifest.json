@@ -141,7 +141,9 @@
           "githubUrl": "https://github.com/spf13/pflag",
           "source": "build_file:go.mod"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/d267ace6b39a5c2a12657915cb4b4a9379f76386/chunk-001.nq.gz",
+      "dep": "dep/d267ace6b39a5c2a12657915cb4b4a9379f76386.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",

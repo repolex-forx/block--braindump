@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/block/braindump/commit/d267ace6b39a5c2a12657915cb4b4a9379f76386",
       "git:hexsha": "d267ace6b39a5c2a12657915cb4b4a9379f76386",
-      "repolex:parseStatus": "enrich_complete",
-      "git:tagName": "main"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "main",
+      "repolex:parsedAt": "2026-10-02T10:19:17.538636+00:00"
     }
   ]
 }
